@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitmtrn/ftp-to-git.git"
+    "url": "git+https://github.com/amitmtrn/ftp-downloader.git"
   },
   "keywords": [
     "ftp",
@@ -20,9 +20,9 @@
   "author": "Amit Choukroun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amitmtrn/ftp-to-git/issues"
+    "url": "https://github.com/amitmtrn/ftp-downloader/issues"
   },
-  "homepage": "https://github.com/amitmtrn/ftp-to-git#readme",
+  "homepage": "https://github.com/amitmtrn/ftp-downloader",
   "dependencies": {
     "inquirer": "^0.9.0",
     "rget-jsftp": "^0.1.4"
