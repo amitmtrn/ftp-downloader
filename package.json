@@ -1,0 +1,34 @@
+{
+  "name": "ftp-downloader",
+  "version": "0.1.0",
+  "description": "This package download project from ftp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmtrn/ftp-to-git.git"
+  },
+  "keywords": [
+    "ftp",
+    "git",
+    "ftp",
+    "to",
+    "git"
+  ],
+  "author": "Amit Choukroun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmtrn/ftp-to-git/issues"
+  },
+  "homepage": "https://github.com/amitmtrn/ftp-to-git#readme",
+  "dependencies": {
+    "inquirer": "^0.9.0",
+    "rget-jsftp": "^0.1.4"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "download-ftp": "./index.js"
+  }
+}
